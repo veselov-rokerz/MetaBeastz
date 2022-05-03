@@ -1,0 +1,285 @@
+Key,English,Turkish
+Signedin,Signed in,Giriş Yapıldı
+WalletAddress,Wallet Address,Cüzdan Adresi
+Login,Login,Giriş Yap
+Card_2,Blastoise,Blastoise
+Card_4,Charizard,Charizard
+Card_7,Hitmonchan,Hitmonchan
+Card_10,Mewtwo,Mewtwo
+Card_14,Raichu,Raichu
+Card_15,Venusaur,Venusaur
+Card_22,Pidgeotto,Pidgeotto
+Card_24,Charmeleon,Charmeleon
+Card_30,Ivysaur,Ivysaur
+Card_42,Wartortle,Wartortle
+Card_43,Abra,Abra
+Card_44,Bulbasaur,Bulbasaur
+Card_46,Charmander,Charmander
+Card_47,Diglett,Diglett
+Card_50,Gastly,Gastly
+Card_55,Nidoran,Nidoran
+Card_57,Pidgey,Pidgey
+Card_58,Pikachu,Pikachu
+Card_63,Squirtle,Squirtle
+Card_80,Defender,Defender
+Card_82,Full Heal,Full Heal
+Card_85,Pokémon Center,Pokémon Center
+Card_94,Potion,Potion
+Card_95,Switch,Switch
+Card_96,Double Colorless Energy,Double Colorless Energy
+Card_97,Fighting Energy,Fighting Energy
+Card_98,Fire Energy,Fire Energy
+Card_99,Grass Energy,Grass Energy
+Card_100,Lightning Energy,Lightning Energy
+Card_101,Psychic Energy,Psychic Energy
+Card_102,Water Energy,Water Energy
+Attack_1,Stratch,Stratch
+Attack_2,Ember,Ember
+Attack_3,Leech Seed,Leech Seed
+Attack_4,Psyshock,Psyshock
+Attack_5,Dig,Dig
+Attack_6,Mud Slap,Mud Slap
+Attack_7,Gnaw,Gnaw
+Attack_8,Thunder Jolt,Thunder Jolt
+Attack_9,Sleeping Gas,Sleeping Gas
+Attack_10,Destiny Bond,Destiny Bond
+Attack_11,Whirlwind,Whirlwind
+Attack_12,Horn Hazard,Horn Hazard
+Attack_13,Bubble,Bubble
+Attack_14,Withdraw,Withdraw
+Attack_15,Jab,Jab
+Attack_16,Special Punch,Special Punch
+Attack_17,Agility,Agility
+Attack_18,Thunder,Thunder
+Attack_19,Slash,Slash
+Attack_20,Flamethrower,Flamethrower
+Attack_21,Energy Burn,Energy Burn
+Attack_22,Fire Spin,Fire Spin
+Attack_23,Whirlwind,Whirlwind
+Attack_24,Mirror Move,Mirror Move
+Attack_25,Psychic,Psychic
+Attack_26,Barrier,Barrier
+Attack_27,Withdraw,Withdraw
+Attack_28,Bite,Bite
+Attack_29,Rain Dance,Rain Dance
+Attack_30,Hydro Pump,Hydro Pump
+Attack_31,Vine Whip,Vine Whip
+Attack_32,Poisonpowder,Poisonpowder
+Attack_33,Energy Trans,Energy Trans
+Attack_34,Solarbeam,Solarbeam
+Attack_Desc_1,,
+Attack_Desc_2,Discard 1 Fire Energy card attached to Charmander or this attack does nothing.,Discard 1 Fire Energy card attached to Charmander or this attack does nothing.
+Attack_Desc_3,"Unless all damage from this attack is prevented, you may remove 1 damage counter from Bulbasaur.","Unless all damage from this attack is prevented, you may remove 1 damage counter from Bulbasaur."
+Attack_Desc_4,"Flip a coin. If heads, the Defending Pokémon is now Paralyzed.","Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+Attack_Desc_5,,
+Attack_Desc_6,,
+Attack_Desc_7,,
+Attack_Desc_8,"Flip a coin. If tails, Pikachu does 10 damage to itself.","Flip a coin. If tails, Pikachu does 10 damage to itself."
+Attack_Desc_9,"Flip a coin. If heads, the Defending Pokémon is now Asleep.","Flip a coin. If heads, the Defending Pokémon is now Asleep."
+Attack_Desc_10,"Discard 1 Psychic Energy card attached to Gastly in order to use this attack. If a Pokémon Knocks Out Gastly during your opponent's next turn, Knock Out that Pokémon.","Discard 1 Psychic Energy card attached to Gastly in order to use this attack. If a Pokémon Knocks Out Gastly during your opponent's next turn, Knock Out that Pokémon."
+Attack_Desc_11,"If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. (Do the damage before switching the Pokémon.)","If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. (Do the damage before switching the Pokémon.)"
+Attack_Desc_12,"Flip a coin. If tails, this attack does nothing.","Flip a coin. If tails, this attack does nothing."
+Attack_Desc_13,"Flip a coin. If heads, the Defending Pokémon is now Paralyzed.","Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+Attack_Desc_14,"Flip a coin. If heads, prevent all damage done to Squirtle during your opponent's next turn. (Any other effects of attacks still happen.)","Flip a coin. If heads, prevent all damage done to Squirtle during your opponent's next turn. (Any other effects of attacks still happen.)"
+Attack_Desc_15,,
+Attack_Desc_16,,
+Attack_Desc_17,"Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Raichu.","Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Raichu."
+Attack_Desc_18,"Flip a coin. If tails, Raichu does 30 damage to itself.","Flip a coin. If tails, Raichu does 30 damage to itself."
+Attack_Desc_19,,
+Attack_Desc_20,Discard 1 Fire Energy card attached to Charmeleon in order to use this attack.,Discard 1 Fire Energy card attached to Charmeleon in order to use this attack.
+Attack_Desc_21,"As often as you like during your turn (before your attack), you may turn all Energy attached to Charizard into Fire Energy for the rest of the turn. This power can't be used if Charizard is Asleep, Confused, or Paralyzed.","As often as you like during your turn (before your attack), you may turn all Energy attached to Charizard into Fire Energy for the rest of the turn. This power can't be used if Charizard is Asleep, Confused, or Paralyzed."
+Attack_Desc_22,Discard 2 Energy cards attached to Charizard in order to use this attack.,Discard 2 Energy cards attached to Charizard in order to use this attack.
+Attack_Desc_23,"If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. (Do the damage before switching the Pokémon.)","If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. (Do the damage before switching the Pokémon.)"
+Attack_Desc_24,"If Pidgeotto was attacked last turn, do the final result of that attack on Pidgeotto to the Defending Pokémon.","If Pidgeotto was attacked last turn, do the final result of that attack on Pidgeotto to the Defending Pokémon."
+Attack_Desc_25,Does 10 damage plus 10 more damage for each Energy card attached to the Defending Pokémon.,Does 10 damage plus 10 more damage for each Energy card attached to the Defending Pokémon.
+Attack_Desc_26,"Discard 1 Psychic Energy card attached to Mewtwo in order to use this attack. During your opponent's next turn, prevent all effects of attacks, including damage, done to Mewtwo.","Discard 1 Psychic Energy card attached to Mewtwo in order to use this attack. During your opponent's next turn, prevent all effects of attacks, including damage, done to Mewtwo."
+Attack_Desc_27,"Flip a coin. If heads, prevent all damage done to Wartortle during your opponent's next turn. (Any other effects of attacks still happen.)","Flip a coin. If heads, prevent all damage done to Wartortle during your opponent's next turn. (Any other effects of attacks still happen.)"
+Attack_Desc_28,,
+Attack_Desc_29,"As often as you like during your turn (before your attack), you may attach 1 Water Energy card to 1 of your Water Pokémon. (This doesn't use up your 1 Energy card attachment for the turn.) This power can't be used if Blastoise is Asleep, Confused, or Paralyzed.","As often as you like during your turn (before your attack), you may attach 1 Water Energy card to 1 of your Water Pokémon. (This doesn't use up your 1 Energy card attachment for the turn.) This power can't be used if Blastoise is Asleep, Confused, or Paralyzed."
+Attack_Desc_30,Does 40 damage plus 10 more damage for each Water Energy attached to Blastoise but not used to pay for this attack's Energy cost. Extra Water Energy after the 2nd doesn't count.,Does 40 damage plus 10 more damage for each Water Energy attached to Blastoise but not used to pay for this attack's Energy cost. Extra Water Energy after the 2nd doesn't count.
+Attack_Desc_31,,
+Attack_Desc_32,The Defending Pokémon is now Poisoned.,The Defending Pokémon is now Poisoned.
+Attack_Desc_33,"As often as you like during your turn (before your attack), you may take 1 Grass Energy card attached to 1 of your Pokémon and attach it to a different one. This power can't be used if Venusaur is Asleep, Confused, or Paralyzed.","As often as you like during your turn (before your attack), you may take 1 Grass Energy card attached to 1 of your Pokémon and attach it to a different one. This power can't be used if Venusaur is Asleep, Confused, or Paralyzed."
+Attack_Desc_34,,
+Attack_35,Confuse Ray,Confuse Ray
+Attack_36,Dragon Rage,Dragon Rage
+Attack_37,Bubblebeam,Bubblebeam
+Attack_38,Thunder Wave,Thunder Wave
+Attack_39,Selfdestruct,Selfdestruct
+Attack_40,Magnemite Thunder Wave,Magnemite Thunder Wave
+Attack_41,Magnemite Selfdestruct,Magnemite Selfdestruct
+Attack_43,Fury Attack,Fury Attack
+Attack_44,Headbutt,Headbutt
+Attack_45,Poison Sting,Poison Sting
+Attack_46,Confuse Ray,Confuse Ray
+Attack_47,Bite,Bite
+Attack_48,Tackle,Tackle
+Attack_49,Thunder,Thunder
+Attack_50,Thunderbolt,Thunderbolt
+Attack_51,Twineedle,Twineedle
+Attack_52,Poison Sting,Poison Sting
+Attack_53,Slap,Slap
+Attack_54,Foul Gas,Foul Gas
+Attack_55,Low Kick,Low Kick
+Attack_56,Tackle,Tackle
+Attack_57,Flail,Flail
+Attack_58,Gnaw,Gnaw
+Attack_59,Thunder Jolt,Thunder Jolt
+Attack_60,Water Gun,Water Gun
+Attack_61,String Shot,String Shot
+Attack_62,Flare,Flare
+Attack_63,Smash Kick,Smash Kick
+Attack_64,Flame Tail,Flame Tail
+Attack_65,Pound,Pound
+Attack_66,Pound,Pound
+Attack_67,Confuse Ray,Confuse Ray
+Attack_68,Slash,Slash
+Attack_69,Earthquake,Earthquake
+Attack_70,Thundershock,Thundershock
+Attack_71,Thunderpunch,Thunderpunch
+Attack_72,Electric Shock,Electric Shock
+Attack_73,Aurora Beam,Aurora Beam
+Attack_74,Ice Beam,Ice Beam
+Attack_75,Doubleslap,Doubleslap
+Attack_76,Meditate,Meditate
+Attack_77,Recover,Recover
+Attack_78,Super Psy,Super Psy
+Attack_79,Seismic Toss,Seismic Toss
+Attack_80,Recover,Recover
+Attack_81,Star Freeze,Star Freeze
+Attack_82,Bind,Bind
+Attack_83,Poisonpowder,Poisonpowder
+Attack_84,Stiffen,Stiffen
+Attack_85,Stun Spore,Stun Spore
+Attack_86,Bite,Bite
+Attack_87,Super Fang,Super Fang
+Attack_88,Flamethrower,Flamethrower
+Attack_89,Take Down,Take Down
+Attack_90,Scrunch,Scrunch
+Attack_91,Double-edge,Double-edge
+Attack_92,Fire Punch,Fire Punch
+Attack_93,Flamethrower,Flamethrower
+Attack_94,Double Kick,Double Kick
+Attack_95,Horn Drill,Horn Drill
+Attack_96,Stiffen,Stiffen
+Attack_97,Poisonpowder,Poisonpowder
+Attack_98,Karate Chop,Karate Chop
+Attack_99,Submission,Submission
+Attack_100,Hypnosis,Hypnosis
+Attack_101,Dream Eater,Dream Eater
+Attack_102,Thrash,Thrash
+Attack_103,Toxic,Toxic
+Attack_104,Rock Throw,Rock Throw
+Attack_105,Leek Slap,Leek Slap
+Attack_106,Pot Smash,Pot Smash
+Attack_107,Sand Attack,Sand Attack
+Attack_108,Harden,Harden
+Attack_109,Lure,Lure
+Attack_110,Fire Blast,Fire Blast
+Attack_111,Water Gun,Water Gun
+Attack_112,Whirlpool,Whirlpool
+Attack_Desc_35,"Flip a coin. If heads, the Defending Pokémon is now Confused.","Flip a coin. If heads, the Defending Pokémon is now Confused."
+Attack_Desc_36,,
+Attack_Desc_37,"Flip a coin. If heads, the Defending Pokémon is now Paralyzed.","Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+Attack_Desc_38,"Flip a coin. If heads, the Defending Pokémon is now Paralyzed.","Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+Attack_Desc_39,Does 20 damage to each Pokémon on each player's Bench. (Don't apply Weakness and Resistance for Benched Pokémon.) Magneton does 80 damage to itself.,Does 20 damage to each Pokémon on each player's Bench. (Don't apply Weakness and Resistance for Benched Pokémon.) Magneton does 80 damage to itself.
+Attack_Desc_40,"Flip a coin. If heads, the Defending Pokémon is now Paralyzed.","Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+Attack_Desc_41,Does 10 damage to each Pokémon on each player's Bench. (Don't apply Weakness and Resistance for Benched Pokémon.) Magnemite does 40 damage to itself.,Does 10 damage to each Pokémon on each player's Bench. (Don't apply Weakness and Resistance for Benched Pokémon.) Magnemite does 40 damage to itself.
+Attack_Desc_43,Flip 2 coins. This attack does 10 damage times the number of heads.,Flip 2 coins. This attack does 10 damage times the number of heads.
+Attack_Desc_44,,
+Attack_Desc_45,"Flip a coin. If heads, the Defending Pokémon is now Poisoned.","Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+Attack_Desc_46,"Flip a coin. If heads, the Defending Pokémon is now Confused.","Flip a coin. If heads, the Defending Pokémon is now Confused."
+Attack_Desc_47,,
+Attack_Desc_48,,
+Attack_Desc_49,"Flip a coin. If tails, Zapdos does 30 damage to itself.","Flip a coin. If tails, Zapdos does 30 damage to itself."
+Attack_Desc_50,Discard all Energy cards attached to Zapdos in order to use this attack.,Discard all Energy cards attached to Zapdos in order to use this attack.
+Attack_Desc_51,Flip 2 coins. This attack does 30 damage times the number of heads.,Flip 2 coins. This attack does 30 damage times the number of heads.
+Attack_Desc_52,"Flip a coin. If heads, the Defending Pokémon is now Poisoned.","Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+Attack_Desc_53,,
+Attack_Desc_54,"Flip a coin. If heads, the Defending Pokémon is now Poisoned; if tails, it is now Confused.","Flip a coin. If heads, the Defending Pokémon is now Poisoned; if tails, it is now Confused."
+Attack_Desc_55,,
+Attack_Desc_56,,
+Attack_Desc_57,Does 10 damage times the number of damage counters on Magikarp.,Does 10 damage times the number of damage counters on Magikarp.
+Attack_Desc_58,,
+Attack_Desc_59,"Flip a coin. If tails, Pikachu does 10 damage to itself.","Flip a coin. If tails, Pikachu does 10 damage to itself."
+Attack_Desc_60,Does 10 damage plus 10 more damage for each Water Energy attached to Poliwag but not used to pay for this attack's Energy cost. Extra Water Energy after the 2nd don't count.,Does 10 damage plus 10 more damage for each Water Energy attached to Poliwag but not used to pay for this attack's Energy cost. Extra Water Energy after the 2nd don't count.
+Attack_Desc_61,"Flip a coin. If heads, the Defending Pokémon is now Paralyzed.","Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+Attack_Desc_62,,
+Attack_Desc_63,,
+Attack_Desc_64,,
+Attack_Desc_65,,
+Attack_Desc_66,,
+Attack_Desc_67,"Flip a coin. If heads, the Defending Pokémon is now Confused.","Flip a coin. If heads, the Defending Pokémon is now Confused."
+Attack_Desc_68,,
+Attack_Desc_69,Does 10 damage to each of your own Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.),Does 10 damage to each of your own Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+Attack_Desc_70,"Flip a coin. If heads, the Defending Pokémon is now Paralyzed.","Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+Attack_Desc_71,"Flip a coin. If heads, this attack does 30 damage plus 10 more damage; if tails, this attack does 30 damage plus Electabuzz does 10 damage to itself.","Flip a coin. If heads, this attack does 30 damage plus 10 more damage; if tails, this attack does 30 damage plus Electabuzz does 10 damage to itself."
+Attack_Desc_72,"Flip a coin. If tails, Electrode does 10 damage to itself.","Flip a coin. If tails, Electrode does 10 damage to itself."
+Attack_Desc_73,,
+Attack_Desc_74,"Flip a coin. If heads, the Defending Pokémon is now Paralyzed.","Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+Attack_Desc_75,Flip 2 coins. This attack does 10 damage times the number of heads.,Flip 2 coins. This attack does 10 damage times the number of heads.
+Attack_Desc_76,Does 20 damage plus 10 more damage for each damage counter on the Defending Pokémon.,Does 20 damage plus 10 more damage for each damage counter on the Defending Pokémon.
+Attack_Desc_77,Discard 1 Psychic Energy card attached to Kadabra in order to use this attack. Remove all damage counters from Kadabra.,Discard 1 Psychic Energy card attached to Kadabra in order to use this attack. Remove all damage counters from Kadabra.
+Attack_Desc_78,,
+Attack_Desc_79,,
+Attack_Desc_80,Discard 1 Water Energy card attached to Starmie in order to use this attack. Remove all damage counters from Starmie.,Discard 1 Water Energy card attached to Starmie in order to use this attack. Remove all damage counters from Starmie.
+Attack_Desc_81,"Flip a coin. If heads, the Defending Pokémon is now Paralyzed.","Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+Attack_Desc_82,"Flip a coin. If heads, the Defending Pokémon is now Paralyzed.","Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+Attack_Desc_83,The Defending Pokémon is now Poisoned.,The Defending Pokémon is now Poisoned.
+Attack_Desc_84,"Flip a coin. If heads, prevent all damage done to Metapod during your opponent's next turn. (Any other effects of attacks still happen.)","Flip a coin. If heads, prevent all damage done to Metapod during your opponent's next turn. (Any other effects of attacks still happen.)"
+Attack_Desc_85,"Flip a coin. If heads, the Defending Pokémon is now Paralyzed.","Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+Attack_Desc_86,,
+Attack_Desc_87,Does damage to the Defending Pokémon equal to half the Defending Pokémon's remaining HP (rounded up to the nearest 10).,Does damage to the Defending Pokémon equal to half the Defending Pokémon's remaining HP (rounded up to the nearest 10).
+Attack_Desc_88,Discard 1 Fire Energy card attached to Arcanine in order to use this attack.,Discard 1 Fire Energy card attached to Arcanine in order to use this attack.
+Attack_Desc_89,Arcanine does 30 damage to itself.,Arcanine does 30 damage to itself.
+Attack_Desc_90,"Flip a coin. If heads, prevent all damage done to Chansey during your opponent's next turn. (Any other effects of attacks still happen.)","Flip a coin. If heads, prevent all damage done to Chansey during your opponent's next turn. (Any other effects of attacks still happen.)"
+Attack_Desc_91,Chansey does 80 damage to itself.,Chansey does 80 damage to itself.
+Attack_Desc_92,,
+Attack_Desc_93,Discard 1 Fire Energy card attached to Magmar in order to use this attack.,Discard 1 Fire Energy card attached to Magmar in order to use this attack.
+Attack_Desc_94,Flip 2 coins. This attack does 30 damage times the number of heads.,Flip 2 coins. This attack does 30 damage times the number of heads.
+Attack_Desc_95,,
+Attack_Desc_96,"Flip a coin. If heads, prevent all damage done to Kakuna during your opponent's next turn. (Any other effects of attacks still happen.)","Flip a coin. If heads, prevent all damage done to Kakuna during your opponent's next turn. (Any other effects of attacks still happen.)"
+Attack_Desc_97,"Flip a coin. If heads, the Defending Pokémon is now Poisoned.","Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+Attack_Desc_98,Does 50 damage minus 10 damage for each damage counter on Machoke.,Does 50 damage minus 10 damage for each damage counter on Machoke.
+Attack_Desc_99,Machoke does 20 damage to itself.,Machoke does 20 damage to itself.
+Attack_Desc_100,The Defending Pokémon is now Asleep.,The Defending Pokémon is now Asleep.
+Attack_Desc_101,You can't use this attack unless the Defending Pokémon is Asleep.,You can't use this attack unless the Defending Pokémon is Asleep.
+Attack_Desc_102,"Flip a coin. If heads, this attack does 30 damage plus 10 more damage; if tails, this attack does 30 damage and Nidoking does 10 damage to itself.","Flip a coin. If heads, this attack does 30 damage plus 10 more damage; if tails, this attack does 30 damage and Nidoking does 10 damage to itself."
+Attack_Desc_103,The Defending Pokémon is now Poisoned. It now takes 20 Poison damage instead of 10 after each player's turn (even if it was already Poisoned).,The Defending Pokémon is now Poisoned. It now takes 20 Poison damage instead of 10 after each player's turn (even if it was already Poisoned).
+Attack_Desc_104,,
+Attack_Desc_105,"Flip a coin. If tails, this attack does nothing. Either way, you can't use this attack again as long as Farfetch'd stays in play (even putting Farfetch'd on the Bench won't let you use it again).","Flip a coin. If tails, this attack does nothing. Either way, you can't use this attack again as long as Farfetch'd stays in play (even putting Farfetch'd on the Bench won't let you use it again)."
+Attack_Desc_106,,
+Attack_Desc_107,"If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.","If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+Attack_Desc_108,"During your opponent's next turn, whenever 30 or less damage is done to Onix (after applying Weakness and Resistance), prevent that damage. (Any other effects of attacks still happen.)","During your opponent's next turn, whenever 30 or less damage is done to Onix (after applying Weakness and Resistance), prevent that damage. (Any other effects of attacks still happen.)"
+Attack_Desc_109,"If your opponent has any Benched Pokémon, choose 1 of them and switch it with the Defending Pokémon.","If your opponent has any Benched Pokémon, choose 1 of them and switch it with the Defending Pokémon."
+Attack_Desc_110,Discard 1 Fire Energy card attached to Ninetales or this attack does nothing.,Discard 1 Fire Energy card attached to Ninetales or this attack does nothing.
+Attack_Desc_111,Does 30 damage plus 10 more damage for each Water Energy attached to Poliwrath but not used to pay for this attack's Energy cost. Extra Water Energy after the 2nd doesn't count.,Does 30 damage plus 10 more damage for each Water Energy attached to Poliwrath but not used to pay for this attack's Energy cost. Extra Water Energy after the 2nd doesn't count.
+Attack_Desc_112,"If the Defending Pokémon has any Energy cards attached to it, choose 1 of them and discard it.","If the Defending Pokémon has any Energy cards attached to it, choose 1 of them and discard it."
+Attack_113,Slam,Slam
+Attack_114,Hyper Beam,Hyper Beam
+Attack_115,Amnesia,Amnesia
+Attack_116,Doubleslap,Doubleslap
+Attack_117,Sing,Sing
+Attack_118,Metronome,Metronome
+Attack_119,Conversion 1,Conversion 1
+Attack_120,Conversion 2,Conversion 2
+Attack_Desc_113,Flip 2 coins. This attack does 30 damage times the number of heads.,Flip 2 coins. This attack does 30 damage times the number of heads.
+Attack_Desc_114,"If the Defending Pokémon has any Energy cards attached to it, choose 1 of them and discard it.","If the Defending Pokémon has any Energy cards attached to it, choose 1 of them and discard it."
+Attack_Desc_115,Choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn.,Choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn.
+Attack_Desc_116,Flip 2 coins. This attack does 30 damage times the number of heads.,Flip 2 coins. This attack does 30 damage times the number of heads.
+Attack_Desc_117,"Flip a coin. If heads, the Defending Pokémon is now Asleep.","Flip a coin. If heads, the Defending Pokémon is now Asleep."
+Attack_Desc_118,"Choose 1 of the Defending Pokémon's attacks. Metronome copies that attack except for its Energy costs and anything else required in order to use that attack, such as discarding Energy cards. (No matter what type the Defending Pokémon is, Clefairy's type is still Colorless.)","Choose 1 of the Defending Pokémon's attacks. Metronome copies that attack except for its Energy costs and anything else required in order to use that attack, such as discarding Energy cards. (No matter what type the Defending Pokémon is, Clefairy's type is still Colorless.)"
+Attack_Desc_119,"If the Defending Pokémon has a Weakness, you may change it to a type of your choice other than Colorless.","If the Defending Pokémon has a Weakness, you may change it to a type of your choice other than Colorless."
+Attack_Desc_120,Change Porygon's Resistance to a type of your choice other than Colorless.,Change Porygon's Resistance to a type of your choice other than Colorless.
+Ability_1,Pokemon Power: Damage Swap,Pokemon Power: Damage Swap
+Ability_Desc_1,"As often as you like during your turn (before your attack), you may move 1 damage counter from 1 of your Pokémon to another as long as you don’t Knock Out that Pokémon. This power can’t be used if Alakazam is Asleep, Confused, or Paralyzed.","As often as you like during your turn (before your attack), you may move 1 damage counter from 1 of your Pokémon to another as long as you don’t Knock Out that Pokémon. This power can’t be used if Alakazam is Asleep, Confused, or Paralyzed."
+Ability_2,Pokemon Power: Rain Dance,Pokemon Power: Rain Dance
+Ability_Desc_2,"As often as you like during your turn (before your attack), you may attach 1 Water Energy card to 1 of your Water Pokémon. (This doesn’t use up your 1 Energy card attachment for the turn.) This power can’t be used if Blastoise is Asleep, Confused, or Paralyzed.","As often as you like during your turn (before your attack), you may attach 1 Water Energy card to 1 of your Water Pokémon. (This doesn’t use up your 1 Energy card attachment for the turn.) This power can’t be used if Blastoise is Asleep, Confused, or Paralyzed."
+Ability_4,Pokemon Power: Energy Burn,Pokemon Power: Energy Burn
+Ability_Desc_4,"As often as you like during your turn (before your attack), you may turn all Energy attached to Charizard into Fire Energy for the rest of the turn. This power can’t be used if Charizard is Asleep, Confused, or Paralyzed.","As often as you like during your turn (before your attack), you may turn all Energy attached to Charizard into Fire Energy for the rest of the turn. This power can’t be used if Charizard is Asleep, Confused, or Paralyzed."
+Ability_8,Pokemon Power: Strikes Back,Pokemon Power: Strikes Back
+Ability_Desc_8,"Whenever your opponent’s attack damages Machamp (even if Machamp is Knocked Out), this power does 10 damage to the attacking Pokémon. (Don’t apply Weakness and Resistance.) This power can’t be used if Machamp is Asleep, Confused, or Paralyzed when your opponent attacks.","Whenever your opponent’s attack damages Machamp (even if Machamp is Knocked Out), this power does 10 damage to the attacking Pokémon. (Don’t apply Weakness and Resistance.) This power can’t be used if Machamp is Asleep, Confused, or Paralyzed when your opponent attacks."
+Ability_15,Pokemon Power: Energy Trans,Pokemon Power: Energy Trans
+Ability_Desc_15,"As often as you like during your turn (before your attack), you may take 1 Grass Energy card attached to 1 of your Pokémon and attach it to a different one. This power can’t be used if Venusaur is Asleep, Confused, or Paralyzed.","As often as you like during your turn (before your attack), you may take 1 Grass Energy card attached to 1 of your Pokémon and attach it to a different one. This power can’t be used if Venusaur is Asleep, Confused, or Paralyzed."
+Ability_21,Pokemon Power: Buzzap,Pokemon Power: Buzzap
+Ability_Desc_21,"At any time during your turn (before your attack), you may Knock Out Electrode and attach it to 1 of your other Pokémon. If you do, choose a type of Energy. Electrode is now an Energy card (instead of a Pokémon) that provides 2 energy of that type. You can’t use this power if Electrode is Asleep, Confused, or Paralyzed.","At any time during your turn (before your attack), you may Knock Out Electrode and attach it to 1 of your other Pokémon. If you do, choose a type of Energy. Electrode is now an Energy card (instead of a Pokémon) that provides 2 energy of that type. You can’t use this power if Electrode is Asleep, Confused, or Paralyzed."

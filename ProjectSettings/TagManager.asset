@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Ground
+    uniqueID: 2324377621
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Bench
+    uniqueID: 1516582595
+    locked: 0
+  - name: Active
+    uniqueID: 2398334711
+    locked: 0
+  - name: Coin
+    uniqueID: 1669432987
+    locked: 0
+  - name: Discard
+    uniqueID: 32734435
+    locked: 0
+  - name: Deck
+    uniqueID: 956504143
+    locked: 0
+  - name: Prizes
+    uniqueID: 2091955567
+    locked: 0
+  - name: Prize Quantity
+    uniqueID: 3342974093
+    locked: 0
+  - name: Hand
+    uniqueID: 2648969815
+    locked: 0
+  - name: Damage
+    uniqueID: 1040128219
+    locked: 0
+  - name: Done
+    uniqueID: 792747039
+    locked: 0
+  - name: ActiveDetails
+    uniqueID: 822711515
+    locked: 0
+  - name: CoinFlip
+    uniqueID: 1027260913
+    locked: 0
+  - name: CardDetails
+    uniqueID: 519991677
+    locked: 0
+  - name: PrizeView
+    uniqueID: 102632631
+    locked: 0
